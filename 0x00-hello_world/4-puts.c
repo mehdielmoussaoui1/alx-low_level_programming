@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*Write a C program that prints exactly "Programming is like building a multilingual puzzle"
+*Write a C programm 
 *Use the function puts
 * not allowed to use printf
 * program should end with the value 0
