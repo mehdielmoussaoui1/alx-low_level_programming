@@ -4,8 +4,7 @@
 * main - print the string in the put function
 *
 * Description: Use the function puts
-* this program prints exactly  "Programming is like building a multilingual puzzl"
-* Return: 0
+* Return: 0 (Success)
 */
 int main(void)
 {
