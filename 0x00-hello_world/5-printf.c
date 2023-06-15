@@ -1,10 +1,7 @@
 #include <stdio.h>
-
 /**
-* main - Use the function printf
-*
-* Description: using the main function 
-* Return: 0
+* main - A programm that using printf function 
+* Return: 0 (Success)
 */
 int main(void)
 {
