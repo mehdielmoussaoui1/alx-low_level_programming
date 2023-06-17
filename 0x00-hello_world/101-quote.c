@@ -3,8 +3,7 @@
 
 /**
 * main - Prints out the last part of a quote in the standard error.
-*
-* Return :  1 (Success)
+* Return :always  1 (Success)
 */
 int main(void)
 {
