@@ -1,7 +1,6 @@
-#include<main.h>
+#include "main.h"
 	/**
-	 * main - print _putchar
-	 * is written by mbah
+	 * main - print
 	 * Return: 0
 	 */
 
@@ -18,5 +17,4 @@
 	_putchar('r');
 	_putchar('\n');
 	return (0);
-	}
 
