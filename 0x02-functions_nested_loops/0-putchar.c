@@ -1,8 +1,8 @@
 #include "main.h"
 	/**
-	 * main - Entry point 
+	 * main - Entry point, prints to the standard output 
 	 *
-	 * Return: always 0
+	 * Return: Always 0
 	 */
 
 
