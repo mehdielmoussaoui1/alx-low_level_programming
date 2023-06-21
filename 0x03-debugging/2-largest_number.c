@@ -2,6 +2,9 @@
 
 /**
  * largest_number - returns the largest of 3 numbers
+ * a first number 
+ * b second number 
+ * c third number 
  * Return: largest number
  */
 
