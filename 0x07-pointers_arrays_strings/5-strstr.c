@@ -1,15 +1,13 @@
 #include "main.h"
-
 /**
- * _strstr - locates a substring
- * @haystack: string to be searched in
- * @needle: string to be searched
- *
- * Return: Returns a pointer to the beginning of the located substring
+ * _strstr - Entry point
+ * @haystack: input
+ * @needle: input
+ * Return: Always 0 (Success)
  */
-
 char *_strstr(char *haystack, char *needle)
-{for (; *haystack != '\0'; haystack++)
+{
+	for (; *haystack != '\0'; haystack++)
 	{
 		char *l = haystack;
 		char *p = needle;
